@@ -10,10 +10,10 @@
   -- 
   -->
 
-<h1 align="center">Hi 👋, I'm Jente Rosseel</h1>
+<h1 align="center">Hi 👋, I'm Mercy Kamene</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
+<h3 align="center">A Moringa graduate , ready to start working with iTalanta open-source!</h3>
 
 <br/>
 
@@ -47,15 +47,14 @@
 
 ### Get to know me
 
-💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
+💬 I'm an expert on **software dvelopment, Networking,Security.**
 
-📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
 
 📄 Know about my experiences [through my CV](about/resume.md)
 
-🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
+🌱 I’m currently working **Web projects**.
 
-⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹**
+⚡ Fun fact? **I think am funny**
 
 ### My work
 
@@ -70,7 +69,7 @@
 
 ### Interested ?
 
-📫 Reach me on **jente@elewa.ke**
+📫 Reach me on **mercylynkay@gmail.com**
 
 <br />
 
@@ -112,9 +111,9 @@
 
 #
 <!-- EXPERIENCE II -->
-<h2 align="left">Project Elewa</h2>
+<h2 align="left">Internship</h2>
 
-<p align="right"><b>2022 - 2023</b></p>
+<p align="right"><b>2021 - 2022</b></p>
 
 <p>
   The Elewa "Conversational Learning Manager" is a Learning Management System (LMS) which allows organisations to design courses based on chat bots (through a visual editor).
